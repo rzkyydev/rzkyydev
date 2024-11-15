@@ -2,6 +2,6 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Rizky878}/count.svg" alt="dhyZx :: Visitor's Count" /></p>
 
-![Rzky github stats](https://github-readme-stats.vercel.app/api?username=Rizky878&show_icons=true&theme=tokyonight)
+![Rzky github stats](https://github-readme-stats.vercel.app/api?username=rzkyydev&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizky878&hide=css,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzkyydev&hide=css,html&theme=tokyonight)
