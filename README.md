@@ -18,9 +18,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rzkyydev?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-blue?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://github.com/rzkyydev?tab=stars">
     <img src="https://img.shields.io/github/stars/rzkyydev?style=for-the-badge&logo=github&color=gold" />
   </a>
