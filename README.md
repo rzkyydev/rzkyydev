@@ -1,20 +1,21 @@
+# Hey, I'm Rizky 👋
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hello+World+%F0%9F%91%8B;I'am+a+junior+fullstack+developer" alt="Hello World, I'am a junior fullstack developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hello+World+%F0%9F%91%8B;Fullstack+Developer;Building+things+for+the+web" alt="Hello World, Fullstack Developer" />
 </h1>
 
-<div align="center" >
-  
+<div align="center">
+
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=571189589981528074)
-  
-  <b><i>rzkyydev</i></b><br />
-  <i>he/him</i><br />
-  💻 Fullstack Developer | 🚀 Open Source Enthusiast | 🌱 Continuous Learner
+
+**rzkyydev** · he/him
+
+Fullstack Developer · Open Source · Building things
+
 </div>
 
-
 <p align="center">
-  A junior fullstack developer who currently focused on Web Development. Other than that, I also interested in UX/UI Design, Mobile and AI Development. I love to learn new things and always open to new opportunities.
+  I build things for the web and occasionally explore other areas of development. Most of my time goes into frontend and backend development, but I'm also interested in UI/UX design, mobile apps, and AI.
 </p>
 
 <p align="center">
@@ -28,81 +29,81 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Hey there, I’m Rizky Fadilah, a tech enthusiast and aspiring <b>Fullstack Developer</b>. Hailing from Tembilahan, Riau, Indonesia, I’m currently embarking on an exciting journey in the <b>programming world</b>. My passion for technology and coding knows no bounds. Outside of coding, I find myself delving deeply into <b>design, game Development, and the fascinating world of AI</b>. I believe that in today’s fast-paced digital landscape, being a lifelong learner is not just a choice, but a necessity. Let’s connect and explore this ever-evolving world of technology together!
+Hey, I'm Rizky Fadilah, a developer from Tembilahan, Riau, Indonesia.
+
+I enjoy turning ideas into working products, whether it's a web application, a desktop tool, or something a little different. I'm particularly interested in building projects that are practical, lightweight, and easy to use.
+
+Outside of writing code, I spend time exploring new technologies, experimenting with designs, and working on personal projects. There's always something new to figure out, and that's probably one of the things I enjoy most about development.
 
 ---
 
-## 🌀 Tech Stack
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-F24E1E?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+## Tech Stack
 
 ### Frontend
 `JavaScript (ES6+)` `TypeScript` `React.js` `Next.js` `Vue.js` `Svelte` `HTML5` `CSS3` `SASS/SCSS` `Tailwind CSS` `Bootstrap` `Material UI` `Webpack` `Vite`
 
 ### Backend
-`Node.js` `Express.js` `Python` `Sveltekit` `PHP` `Laravel` `Ruby` `RESTful APIs`
+`Node.js` `Express.js` `Python` `SvelteKit` `PHP` `Laravel` `Ruby` `RESTful APIs`
 
 ### Database
 `MongoDB` `MySQL` `PostgreSQL` `SQLite` `Firebase`
 
-### Tools
-`Git & GitHub` `Docker` `Visual Studio Code` `Jenkins` `Adobe After Effect` `Google Cloud Platform (GCP)` `Alight Motion` `Linux/Unix` `Nginx` `Apache` `Termius` `XAMPP` `Termux`
+### Tools & Platforms
+`Git` `GitHub` `Docker` `Visual Studio Code` `Jenkins` `Google Cloud Platform` `Linux` `Nginx` `Apache` `XAMPP` `Termux` `Termius`
+
+### Other Interests
+`UI/UX Design` `Mobile Development` `AI Development` `Game Development` `Motion Design`
 
 ---
 
-## 🌐 Statistik GitHub
+## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rzkyydev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Statistik GitHub rzkyydev" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzkyydev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Bahasa Teratas rzkyydev" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+    <img src="./assets/overview.light.svg" width="100%" alt="GitHub Overview" />
+  </picture>
 </p>
+
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rzkyydev&theme=tokyonight&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+    <img src="./assets/languages.light.svg" width="100%" alt="Top Languages" />
+  </picture>
 </p>
 
----
-
-## 📞 Contact Me
-
 <p align="center">
-  <a href="https://github.com/rzkyydev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub rzkyydev"/>
-  </a>
-  <a href="https://instagram.com/rzkyy.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FE6060?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram rzkyy.dev"/>
-  </a>
-  <a href="https://twitter.com/rzkyydev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter rzkyydev"/>
-  </a>
-  <a href="mailto:rzkyydev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+    <img src="./assets/contributions.light.svg" width="100%" alt="GitHub Contributions" />
+  </picture>
 </p>
 
 ---
 
+## Find Me Around the Web
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rzkyydev&label=Viewers+Count&color=blueviolet&style=flat-square" alt="jumlah pengunjung profil" />
+  <a href="https://github.com/rzkyydev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/rzkyy.dev">
+    <img src="https://img.shields.io/badge/Instagram-FE6060?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/rzkyydev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:rzkyydev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
-  <i>Code, break, fix, repeat. That's how u get better.</i>
+  <img src="https://komarev.com/ghpvc/?username=rzkyydev&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>Build something. Learn something. Repeat.</i>
 </p>
