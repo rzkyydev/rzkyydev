@@ -1,4 +1,4 @@
-# Hey, I'm Rizky 👋
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hello+World+%F0%9F%91%8B;Fullstack+Developer;Building+things+for+the+web" alt="Hello World, Fullstack Developer" />
